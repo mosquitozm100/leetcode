@@ -18,9 +18,10 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int> mp;
         for(int i = 0;i < nums.size();i++){
-            if(mp.count(target - nums[i]))  return vector<int>({mp[target - nums[i]], i});
+            int tmp = target - nums[i];
+            if(mp.count(tmp)) return vector<int>({mp[tmp], i});
             mp[nums[i]] = i;
         }
-        return vector<int>();
+        return vector<int>({0, 0});
     }
 };
