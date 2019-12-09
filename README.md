@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2019-12-07 14:31:25
+Update time:  2019-12-09 10:07:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **157   /   1180** problems
+I have solved **157   /   1184** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1196,3 +1196,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1402|[count-square-submatrices-with-all-ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)|||Medium|
 |1403|[palindrome-partitioning-iii](https://leetcode.com/problems/palindrome-partitioning-iii)|||Hard|
 |1404|[print-immutable-linked-list-in-reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)|:lock:||Medium|
+|1406|[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|||Easy|
+|1407|[group-the-people-given-the-group-size-they-belong-to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)|||Medium|
+|1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|||Medium|
+|1409|[minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)|||Hard|
