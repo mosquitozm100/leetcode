@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-05-06 15:36:28
+Update time:  2020-05-07 19:21:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **193   /   1318** problems
+I have solved **194   /   1318** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -959,7 +959,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1032|[satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations)||[:memo:](https://leetcode.com/articles/satisfiability-of-equality-equations/)|Medium|
 |1033|[broken-calculator](https://leetcode.com/problems/broken-calculator)||[:memo:](https://leetcode.com/articles/broken-calculator/)|Medium|
 |1034|[subarrays-with-k-different-integers](https://leetcode.com/problems/subarrays-with-k-different-integers)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1034-subarrays-with-k-different-integers/subarrays-with-k-different-integers.cpp)|[:memo:](https://leetcode.com/articles/subarrays-with-k-different-integers/)|Hard|
-|1035|[cousins-in-binary-tree](https://leetcode.com/problems/cousins-in-binary-tree)||[:memo:](https://leetcode.com/articles/cousins-in-binary-tree/)|Easy|
+|1035|[cousins-in-binary-tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1035-cousins-in-binary-tree/cousins-in-binary-tree.cpp)|[:memo:](https://leetcode.com/articles/cousins-in-binary-tree/)|Easy|
 |1036|[rotting-oranges](https://leetcode.com/problems/rotting-oranges)||[:memo:](https://leetcode.com/articles/rotting-oranges/)|Medium|
 |1037|[minimum-number-of-k-consecutive-bit-flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)||[:memo:](https://leetcode.com/articles/minimum-number-of-k-consecutive-bit-flips/)|Hard|
 |1038|[number-of-squareful-arrays](https://leetcode.com/problems/number-of-squareful-arrays)||[:memo:](https://leetcode.com/articles/number-of-squareful-arrays/)|Hard|
