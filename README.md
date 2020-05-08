@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-05-07 19:21:57
+Update time:  2020-05-08 19:42:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **194   /   1318** problems
+I have solved **198   /   1318** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -99,8 +99,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0081-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp)||Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|||Medium|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
-|84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)||[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
-|85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)||[:memo:](https://leetcode.com/articles/maximal-rectangle/)|Hard|
+|84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0084-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp)|[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
+|85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)|[Java](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0085-maximal-rectangle/maximal-rectangle.java)|[:memo:](https://leetcode.com/articles/maximal-rectangle/)|Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)||[:memo:](https://leetcode.com/articles/partition-list/)|Medium|
 |87|[scramble-string](https://leetcode.com/problems/scramble-string)|||Hard|
 |88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0088-merge-sorted-array/merge-sorted-array.cpp)|[:memo:](https://leetcode.com/articles/merge-sorted-arrays/)|Easy|
@@ -237,7 +237,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
-|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)||[:memo:](https://leetcode.com/articles/product-of-array-except-self/)|Medium|
+|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0238-product-of-array-except-self/product-of-array-except-self.cpp)|[:memo:](https://leetcode.com/articles/product-of-array-except-self/)|Medium|
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)||[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|||Medium|
@@ -1192,7 +1192,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1343|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||Medium|
 |1344|[maximum-equal-frequency](https://leetcode.com/problems/maximum-equal-frequency)|||Hard|
 |1345|[perform-string-shifts](https://leetcode.com/problems/perform-string-shifts)|:lock:|[:memo:](https://leetcode.com/articles/performing-string-shifts/)|Easy|
-|1349|[check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|||Easy|
+|1349|[check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1349-check-if-it-is-a-straight-line/check-if-it-is-a-straight-line.cpp)||Easy|
 |1350|[remove-sub-folders-from-the-filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem)|||Medium|
 |1351|[replace-the-substring-for-balanced-string](https://leetcode.com/problems/replace-the-substring-for-balanced-string)|||Medium|
 |1352|[maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|||Hard|
