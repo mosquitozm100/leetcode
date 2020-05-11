@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-05-10 02:21:31
+Update time:  2020-05-11 05:16:28
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **199   /   1322** problems
+I have solved **201   /   1322** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -467,7 +467,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |473|[matchsticks-to-square](https://leetcode.com/problems/matchsticks-to-square)||[:memo:](https://leetcode.com/articles/matchsticks-to-square/)|Medium|
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
 |475|[heaters](https://leetcode.com/problems/heaters)|||Easy|
-|476|[number-complement](https://leetcode.com/problems/number-complement)||[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
+|476|[number-complement](https://leetcode.com/problems/number-complement)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0476-number-complement/number-complement.cpp)|[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
 |477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance)||[:memo:](https://leetcode.com/articles/total-hamming-distance/)|Medium|
 |479|[largest-palindrome-product](https://leetcode.com/problems/largest-palindrome-product)|||Hard|
 |480|[sliding-window-median](https://leetcode.com/problems/sliding-window-median)||[:memo:](https://leetcode.com/articles/sliding-window-median/)|Hard|
@@ -963,7 +963,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1036|[rotting-oranges](https://leetcode.com/problems/rotting-oranges)||[:memo:](https://leetcode.com/articles/rotting-oranges/)|Medium|
 |1037|[minimum-number-of-k-consecutive-bit-flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)||[:memo:](https://leetcode.com/articles/minimum-number-of-k-consecutive-bit-flips/)|Hard|
 |1038|[number-of-squareful-arrays](https://leetcode.com/problems/number-of-squareful-arrays)||[:memo:](https://leetcode.com/articles/number-of-squareful-arrays/)|Hard|
-|1039|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)||[:memo:](https://leetcode.com/articles/find-the-town-judge/)|Easy|
+|1039|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1039-find-the-town-judge/find-the-town-judge.cpp)|[:memo:](https://leetcode.com/articles/find-the-town-judge/)|Easy|
 |1040|[maximum-binary-tree-ii](https://leetcode.com/problems/maximum-binary-tree-ii)|||Medium|
 |1041|[available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook)|||Easy|
 |1042|[minimum-cost-to-merge-stones](https://leetcode.com/problems/minimum-cost-to-merge-stones)|||Hard|
