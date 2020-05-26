@@ -7,8 +7,7 @@
 //
 // Above is a 7 x 3 grid. How many possible unique paths are there?
 //
-// Note: m and n will be at most 100.
-//
+//  
 // Example 1:
 //
 //
@@ -26,6 +25,15 @@
 //
 // Input: m = 7, n = 3
 // Output: 28
+//
+//
+//  
+// Constraints:
+//
+//
+// 	1 <= m, n <= 100
+// 	It's guaranteed that the answer will be less than or equal to 2 * 10 ^ 9.
+//
 //
 
 

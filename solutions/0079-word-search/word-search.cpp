@@ -17,6 +17,16 @@
 // Given word = "ABCB", return false.
 //
 //
+//  
+// Constraints:
+//
+//
+// 	board and word consists only of lowercase and uppercase English letters.
+// 	1 <= board.length <= 200
+// 	1 <= board[i].length <= 200
+// 	1 <= word.length <= 10^3
+//
+//
 
 
 class Solution {
