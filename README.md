@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-05-28 00:04:29
+Update time:  2020-05-30 11:31:14
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **217   /   1334** problems
+I have solved **218   /   1334** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -109,7 +109,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0091-decode-ways/decode-ways.cpp)|[:memo:](https://leetcode.com/articles/decode-ways/)|Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)||[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
-|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.cpp)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Hard|
+|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.cpp)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0096-unique-binary-search-trees/unique-binary-search-trees.cpp)|[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
@@ -336,7 +336,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |335|[self-crossing](https://leetcode.com/problems/self-crossing)|||Hard|
 |336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)||[:memo:](https://leetcode.com/articles/palindrome-pairs/)|Hard|
 |337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)|||Medium|
-|338|[counting-bits](https://leetcode.com/problems/counting-bits)||[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
+|338|[counting-bits](https://leetcode.com/problems/counting-bits)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0338-counting-bits/counting-bits.cpp)|[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
 |339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
 |340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characte/)|Hard|
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
