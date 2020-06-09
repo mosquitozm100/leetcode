@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-06-07 10:53:22
+Update time:  2020-06-08 23:51:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **227   /   1347** problems
+I have solved **229   /   1347** problems
 while there are **214** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -455,7 +455,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance)||[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
-|463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0463-island-perimeter/island-perimeter.cpp)||Easy|
+|463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0463-island-perimeter/island-perimeter.cpp)|[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
 |464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
 |465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
 |466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)||[:memo:](https://leetcode.com/articles/count-the-repetitions/)|Hard|
@@ -466,7 +466,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |472|[concatenated-words](https://leetcode.com/problems/concatenated-words)|||Hard|
 |473|[matchsticks-to-square](https://leetcode.com/problems/matchsticks-to-square)||[:memo:](https://leetcode.com/articles/matchsticks-to-square/)|Medium|
 |474|[ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes)||[:memo:](https://leetcode.com/articles/ones-and-zeroes/)|Medium|
-|475|[heaters](https://leetcode.com/problems/heaters)|||Easy|
+|475|[heaters](https://leetcode.com/problems/heaters)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0475-heaters/heaters.cpp)||Easy|
 |476|[number-complement](https://leetcode.com/problems/number-complement)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0476-number-complement/number-complement.cpp)|[:memo:](https://leetcode.com/articles/number-complement/)|Easy|
 |477|[total-hamming-distance](https://leetcode.com/problems/total-hamming-distance)||[:memo:](https://leetcode.com/articles/total-hamming-distance/)|Medium|
 |479|[largest-palindrome-product](https://leetcode.com/problems/largest-palindrome-product)|||Hard|
@@ -1058,7 +1058,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1133|[last-substring-in-lexicographical-order](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||Hard|
 |1134|[shortest-distance-to-target-color](https://leetcode.com/problems/shortest-distance-to-target-color)|:lock:||Medium|
 |1137|[height-checker](https://leetcode.com/problems/height-checker)|||Easy|
-|1138|[grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner)|||Medium|
+|1138|[grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1138-grumpy-bookstore-owner/grumpy-bookstore-owner.cpp)||Medium|
 |1139|[previous-permutation-with-one-swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|||Medium|
 |1140|[distant-barcodes](https://leetcode.com/problems/distant-barcodes)|||Medium|
 |1141|[how-many-apples-can-you-put-into-the-basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket)|:lock:||Easy|
