@@ -43,9 +43,51 @@
 
 class Solution {
 public:
+    const static int MOD = 100000000;
+    struct Matrix{
+        int m,n;
+        vector<vector<int> > mat;
+        
+        Matrix(int mm, int nn):n(nn),m(mm){
+            mat = vector<vector<int> >(m ,vector<int>(n, 0));
+        }
+        
+        Matrix operator * (const Matrix & b) const{
+            int k = b.n;
+            Matrix ret(m, k);
+            for(int i = 0;i < m;i++){
+                for(int j = 0;j < k;j++){
+                    for(int t = 0;t < n;t++){
+                        ret.mat[i][j] += mat[i][t] * b.mat[t][j];
+                        ret.mat[i][j] %= MOD;
+                    }
+                }
+            }
+            return ret;
+        }
+    };
+    
+    Matrix matrixFastPower(Matrix x, int k){
+        int len = x.m;
+        Matrix ret(len , len);
+        for(int i = 0;i < len ;i++) ret.mat[i][i] = 1;
+        
+        while(k > 0){
+            if(k & 1) ret = ret * x;
+            x = x * x;
+            k >>= 1;
+        }
+        return ret;
+    }
+    
     int fib(int N) {
-        int a[31] = {0,1,1};
-        for(int i = 3;i <= N;i++) {a[i] = a[i - 1] + a[i - 2];}
-        return a[N];
+        // write your code here
+        Matrix mat(2, 2);
+        mat.mat[0][0] = 1; mat.mat[0][1] = 1;
+        mat.mat[1][0] = 1; mat.mat[1][1] = 0;
+        
+        Matrix final = matrixFastPower(mat, N);
+        
+        return final.mat[0][1];
     }
 };
