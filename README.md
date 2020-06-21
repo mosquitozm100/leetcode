@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-06-20 23:21:23
+Update time:  2020-06-21 17:16:14
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **240   /   1357** problems
+I have solved **244   /   1361** problems
 while there are **216** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -133,7 +133,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)||[:memo:](https://leetcode.com/articles/distinct-subsequences/)|Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.cpp)|[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0118-pascals-triangle/pascals-triangle.cpp)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)||[:memo:](https://leetcode.com/articles/pascals-triangle-ii/)|Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
@@ -156,7 +156,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0138-copy-list-with-random-pointer/copy-list-with-random-pointer.cpp)|[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0139-word-break/word-break.cpp)|[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.cpp)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
@@ -189,7 +189,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
 |172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)||[:memo:](https://leetcode.com/articles/factorial-trailing-zeroes/)|Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)||[:memo:](https://leetcode.com/articles/binary-search-tree-iterator/)|Medium|
-|174|[dungeon-game](https://leetcode.com/problems/dungeon-game)||[:memo:](https://leetcode.com/articles/dungeon-game/)|Hard|
+|174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0174-dungeon-game/dungeon-game.cpp)|[:memo:](https://leetcode.com/articles/dungeon-game/)|Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-ii/)|Medium|
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
@@ -214,7 +214,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)||[:memo:](https://leetcode.com/articles/word-search-ii/)|Hard|
 |213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
-|215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)||[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
+|215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.cpp)|[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0217-contains-duplicate/contains-duplicate.cpp)|[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)||[:memo:](https://leetcode.com/articles/skyline-problem/)|Hard|
@@ -1371,5 +1371,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1604|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
+|1610|[xor-operation-in-an-array](https://leetcode.com/problems/xor-operation-in-an-array)|||Easy|
+|1611|[making-file-names-unique](https://leetcode.com/problems/making-file-names-unique)|||Medium|
+|1612|[avoid-flood-in-the-city](https://leetcode.com/problems/avoid-flood-in-the-city)|||Medium|
+|1613|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1618|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
 |1624|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
