@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-06-21 17:16:14
+Update time:  2020-06-22 22:41:06
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **244   /   1361** problems
+I have solved **245   /   1361** problems
 while there are **216** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -152,7 +152,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |134|[gas-station](https://leetcode.com/problems/gas-station)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0134-gas-station/gas-station.cpp)|[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0136-single-number/single-number.cpp)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
-|137|[single-number-ii](https://leetcode.com/problems/single-number-ii)||[:memo:](https://leetcode.com/articles/single-number-ii/)|Medium|
+|137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0137-single-number-ii/single-number-ii.cpp)|[:memo:](https://leetcode.com/articles/single-number-ii/)|Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0138-copy-list-with-random-pointer/copy-list-with-random-pointer.cpp)|[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0139-word-break/word-break.cpp)|[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
@@ -186,7 +186,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|||Easy|
 |169|[majority-element](https://leetcode.com/problems/majority-element)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0169-majority-element/majority-element.cpp)|[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:|[:memo:](https://leetcode.com/articles/two-sum-iii-data-structure-design/)|Easy|
-|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
+|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)||[:memo:](https://leetcode.com/articles/excel-sheet-column-number/)|Easy|
 |172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)||[:memo:](https://leetcode.com/articles/factorial-trailing-zeroes/)|Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)||[:memo:](https://leetcode.com/articles/binary-search-tree-iterator/)|Medium|
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0174-dungeon-game/dungeon-game.cpp)|[:memo:](https://leetcode.com/articles/dungeon-game/)|Hard|
