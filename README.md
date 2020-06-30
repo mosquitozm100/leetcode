@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-06-26 03:23:58
+Update time:  2020-06-30 00:11:11
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **250   /   1362** problems
+I have solved **253   /   1370** problems
 while there are **217** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -277,7 +277,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:||Easy|
 |277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity)|:lock:|[:memo:](https://leetcode.com/articles/find-the-celebrity/)|Medium|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0278-first-bad-version/first-bad-version.cpp)|[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
-|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)||[:memo:](https://leetcode.com/articles/perfect-squares/)|Medium|
+|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0279-perfect-squares/perfect-squares.cpp)|[:memo:](https://leetcode.com/articles/perfect-squares/)|Medium|
 |280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode.com/articles/wiggle-sort/)|Medium|
 |281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:||Medium|
 |282|[expression-add-operators](https://leetcode.com/problems/expression-add-operators)||[:memo:](https://leetcode.com/articles/expression-add-operators/)|Hard|
@@ -288,7 +288,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0287-find-the-duplicate-number/find-the-duplicate-number.cpp)|[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
 |288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
-|290|[word-pattern](https://leetcode.com/problems/word-pattern)|||Easy|
+|290|[word-pattern](https://leetcode.com/problems/word-pattern)||[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
 |292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
@@ -301,7 +301,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
-|303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
+|303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0303-range-sum-query-immutable/range-sum-query-immutable.cpp)|[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
 |304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
 |305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-islands-ii/)|Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
@@ -1367,6 +1367,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1581|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
+|1584|[average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|||Easy|
+|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)|||Medium|
+|1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|||Medium|
+|1587|[parallel-courses-ii](https://leetcode.com/problems/parallel-courses-ii)|||Hard|
 |1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
 |1604|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
@@ -1376,5 +1380,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1612|[avoid-flood-in-the-city](https://leetcode.com/problems/avoid-flood-in-the-city)|||Medium|
 |1613|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1618|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
+|1619|[path-crossing](https://leetcode.com/problems/path-crossing)|||Easy|
+|1620|[check-if-array-pairs-are-divisible-by-k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k)|||Medium|
+|1621|[number-of-subsequences-that-satisfy-the-given-sum-condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)|||Medium|
+|1622|[max-value-of-equation](https://leetcode.com/problems/max-value-of-equation)|||Hard|
 |1624|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
 |1634|[clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree)|:lock:||Medium|
