@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-07-02 00:00:04
+Update time:  2020-07-06 00:37:08
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **253   /   1371** problems
+I have solved **256   /   1375** problems
 while there are **218** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -160,7 +160,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
@@ -262,7 +262,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |260|[single-number-iii](https://leetcode.com/problems/single-number-iii)||[:memo:](https://leetcode.com/articles/single-number-iii/)|Medium|
 |261|[graph-valid-tree](https://leetcode.com/problems/graph-valid-tree)|:lock:|[:memo:](https://leetcode.com/articles/graph-valid-tree/)|Medium|
 |263|[ugly-number](https://leetcode.com/problems/ugly-number)|||Easy|
-|264|[ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)||[:memo:](https://leetcode.com/articles/ugly-number-ii/)|Medium|
+|264|[ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0264-ugly-number-ii/ugly-number-ii.cpp)|[:memo:](https://leetcode.com/articles/ugly-number-ii/)|Medium|
 |265|[paint-house-ii](https://leetcode.com/problems/paint-house-ii)|:lock:|[:memo:](https://leetcode.com/articles/paint-house-ii/)|Hard|
 |266|[palindrome-permutation](https://leetcode.com/problems/palindrome-permutation)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation/)|Easy|
 |267|[palindrome-permutation-ii](https://leetcode.com/problems/palindrome-permutation-ii)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation-ii/)|Medium|
@@ -433,7 +433,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0438-find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.cpp)|[:memo:](https://leetcode.com/articles/find-all-anagrams-in-a-string/)|Medium|
 |439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
-|441|[arranging-coins](https://leetcode.com/problems/arranging-coins)||[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
+|441|[arranging-coins](https://leetcode.com/problems/arranging-coins)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0441-arranging-coins/arranging-coins.cpp)|[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
 |442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp)|[:memo:](https://leetcode.com/articles/find-all-duplicates-in-an-array/)|Medium|
 |443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Easy|
 |444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
@@ -453,7 +453,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)||[:memo:](https://leetcode.com/articles/repeated-substring-pattern/)|Easy|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
-|461|[hamming-distance](https://leetcode.com/problems/hamming-distance)||[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
+|461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0461-hamming-distance/hamming-distance.cpp)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
 |463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0463-island-perimeter/island-perimeter.cpp)|[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
 |464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
@@ -1385,5 +1385,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1621|[number-of-subsequences-that-satisfy-the-given-sum-condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)|||Medium|
 |1622|[max-value-of-equation](https://leetcode.com/problems/max-value-of-equation)|||Hard|
 |1624|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
+|1626|[can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|||Easy|
+|1627|[last-moment-before-all-ants-fall-out-of-a-plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank)|||Medium|
+|1628|[count-submatrices-with-all-ones](https://leetcode.com/problems/count-submatrices-with-all-ones)|||Medium|
+|1629|[minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)|||Hard|
 |1634|[clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree)|:lock:||Medium|
 |1640|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|
