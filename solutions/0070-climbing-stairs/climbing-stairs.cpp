@@ -2,8 +2,6 @@
 //
 // Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 //
-// Note: Given n will be a positive integer.
-//
 // Example 1:
 //
 //
@@ -25,17 +23,25 @@
 // 3. 2 steps + 1 step
 //
 //
+//  
+// Constraints:
+//
+//
+// 	1 <= n <= 45
+//
+//
 
 
 class Solution {
 public:
     int climbStairs(int n) {
-        if(n == 1) return 1;
-        else if(n == 2) return 2;
-        int a = 1, b=  2, c= 3;
-        for(int i = 0; i < n - 3;i++){
-            a = b; b = c; c = a + b;
+        // write your code here
+        vector<int> dp(n + 1, 0);
+        if(n == 0) return 0;
+        dp[0] = dp[1] = 1; 
+        for(int i = 2;i <= n;i++){
+            dp[i] = dp[i - 1] + dp[i - 2];
         }
-        return c;
+        return dp[n];
     }
 };

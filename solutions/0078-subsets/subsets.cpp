@@ -22,17 +22,19 @@
 
 class Solution {
 public:
+    void dfs(vector<vector<int> > & ans, vector<int> & nums, int curPlace, vector<int> & tmp){
+        if(curPlace >= nums.size()) return;
+        dfs(ans, nums, curPlace + 1, tmp);
+        tmp.push_back(nums[curPlace]);
+        ans.push_back(tmp);
+        dfs(ans, nums, curPlace + 1, tmp);
+        tmp.pop_back();
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        int len = nums.size();
-        int maxNum = (1 << len);
         vector<vector<int> > ans;
-        for(int num = 0; num < maxNum; num++){
-            vector<int>  subset;
-            for(int i = 1,j = 0; i < maxNum; i *= 2, j++){
-                if(num & i) subset.push_back(nums[j]);
-            }
-            ans.push_back(subset);
-        }
+        vector<int> tmp;
+        ans.push_back(tmp);
+        dfs(ans, nums, 0, tmp);
         return ans;
     }
 };

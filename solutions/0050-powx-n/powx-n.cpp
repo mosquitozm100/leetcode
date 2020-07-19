@@ -34,16 +34,15 @@
 class Solution {
 public:
     double myPow(double x, int n) {
+        long nn = n;
+        if(nn == 0) return 1;
+        if(nn < 0) {x = 1 / x; nn = -nn;}
         double ans = 1;
-        int sign = n < 0 ? 1 : 0;
-        long newn = labs(n);
-        double tmp = x;
-        while(newn > 0){
-            if(newn & 1) ans = ans * tmp;
-            tmp = tmp * tmp;
-            newn >>= 1;
+        while(nn > 0){
+            if(nn & 1) ans = ans * x;
+            x = x * x;
+            nn >>= 1;
         }
-        if(sign) ans = 1/ans;
         return ans;
     }
 };

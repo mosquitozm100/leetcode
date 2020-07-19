@@ -18,14 +18,24 @@
 
 class Solution {
 public:
-    vector<string> ans;
-    void dfs(string prefix, int nleft, int nright){
-        if(nleft == 0 && nright == 0) {ans.push_back(prefix); return;}
-        if(nleft > 0) dfs(prefix + '(', nleft - 1, nright);
-        if(nright > 0 && nright - 1 >= nleft) dfs(prefix + ')', nleft, nright - 1);
+    void helper(int left_remain, int right_remain, string path, vector<string> &result){
+        if(left_remain == 0 && right_remain == 0) {result.push_back(path); return;}
+        
+        if(left_remain > 0) helper(left_remain - 1, right_remain, path + '(', result);
+        
+        if(left_remain != right_remain && right_remain > 0) helper(left_remain, right_remain - 1, path + ')', result);
     }
+    
     vector<string> generateParenthesis(int n) {
-        dfs("", n, n);
-        return ans;
+        // write your code here
+        vector<string> result;
+        
+        if(n == 0) return result;
+        
+        int left_remain = n, right_remain = n;
+        
+        helper(left_remain, right_remain, "", result);
+        
+        return result;
     }
 };

@@ -25,6 +25,15 @@
 //                   | 0 0 1 |
 //
 //
+//  
+// Constraints:
+//
+//
+// 	1 <= A.length, B.length <= 100
+// 	1 <= A[i].length, B[i].length <= 100
+// 	-100 <= A[i][j], B[i][j] <= 100
+//
+//
 
 
 class Solution {
