@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-07-19 14:39:15
+Update time:  2020-07-23 00:17:39
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **265   /   1389** problems
-while there are **220** problems still locked.
+I have solved **266   /   1390** problems
+while there are **221** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -202,7 +202,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0200-number-of-islands/number-of-islands.cpp)|[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)||[:memo:](https://leetcode.com/articles/bitwise-and-of-numbers-range/)|Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0202-happy-number/happy-number.cpp)|[:memo:](https://leetcode.com/articles/happy-number/)|Easy|
-|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)||[:memo:](https://leetcode.com/articles/remove-linked-list-elements/)|Easy|
+|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0203-remove-linked-list-elements/remove-linked-list-elements.cpp)|[:memo:](https://leetcode.com/articles/remove-linked-list-elements/)|Easy|
 |204|[count-primes](https://leetcode.com/problems/count-primes)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0204-count-primes/count-primes.cpp)||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0205-isomorphic-strings/isomorphic-strings.cpp)||Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0206-reverse-linked-list/reverse-linked-list.cpp)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
@@ -429,7 +429,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |434|[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string)||[:memo:](https://leetcode.com/articles/number-of-segments-in-a-string/)|Easy|
 |435|[non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals)||[:memo:](https://leetcode.com/articles/non-overlapping-intervals/)|Medium|
 |436|[find-right-interval](https://leetcode.com/problems/find-right-interval)||[:memo:](https://leetcode.com/articles/find-right-interval/)|Medium|
-|437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)|||Easy|
+|437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)||[:memo:](https://leetcode.com/articles/path-sum-iii/)|Easy|
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0438-find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.cpp)|[:memo:](https://leetcode.com/articles/find-all-anagrams-in-a-string/)|Medium|
 |439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
@@ -688,7 +688,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |749|[shortest-completing-word](https://leetcode.com/problems/shortest-completing-word)||[:memo:](https://leetcode.com/articles/shortest-completing-word/)|Easy|
 |750|[contain-virus](https://leetcode.com/problems/contain-virus)||[:memo:](https://leetcode.com/articles/contain-virus/)|Hard|
 |751|[number-of-corner-rectangles](https://leetcode.com/problems/number-of-corner-rectangles)|:lock:|[:memo:](https://leetcode.com/articles/number-of-corner-rectangles/)|Medium|
-|752|[ip-to-cidr](https://leetcode.com/problems/ip-to-cidr)|:lock:|[:memo:](https://leetcode.com/articles/ip-to-cidr/)|Easy|
+|752|[ip-to-cidr](https://leetcode.com/problems/ip-to-cidr)|:lock:|[:memo:](https://leetcode.com/articles/ip-to-cidr/)|Medium|
 |753|[open-the-lock](https://leetcode.com/problems/open-the-lock)||[:memo:](https://leetcode.com/articles/open-the-lock/)|Medium|
 |754|[cracking-the-safe](https://leetcode.com/problems/cracking-the-safe)||[:memo:](https://leetcode.com/articles/cracking-the-safe/)|Hard|
 |755|[reach-a-number](https://leetcode.com/problems/reach-a-number)||[:memo:](https://leetcode.com/articles/reach-a-number/)|Medium|
@@ -1405,3 +1405,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1645|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
 |1650|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:||Medium|
 |1655|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|
+|1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
