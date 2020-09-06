@@ -1,25 +1,56 @@
-// Given two sentences words1, words2 (each represented as an array of strings), and a list of similar word pairs pairs, determine if two sentences are similar.
+// We can represent a sentence as an array of words, for example, the sentence "I am happy with leetcode" can be represented as arr = ["I","am",happy","with","leetcode"].
 //
-// For example, "great acting skills" and "fine drama talent" are similar, if the similar word pairs are pairs = [["great", "fine"], ["acting","drama"], ["skills","talent"]].
+// Given two sentences sentence1 and sentence2 each represented as a string array and given an array of string pairs similarPairs where similarPairs[i] = [xi, yi] indicates that the two words xi and yi are similar.
 //
-// Note that the similarity relation is not transitive. For example, if "great" and "fine" are similar, and "fine" and "good" are similar, "great" and "good" are not necessarily similar.
+// Return true if sentence1 and sentence2 are similar, or false if they are not similar.
 //
-// However, similarity is symmetric. For example, "great" and "fine" being similar is the same as "fine" and "great" being similar.
-//
-// Also, a word is always similar with itself. For example, the sentences words1 = ["great"], words2 = ["great"], pairs = [] are similar, even though there are no specified similar word pairs.
-//
-// Finally, sentences can only be similar if they have the same number of words. So a sentence like words1 = ["great"] can never be similar to words2 = ["doubleplus","good"].
-//
-// Note:
+// Two sentences are similar if:
 //
 //
-// 	The length of words1 and words2 will not exceed 1000.
-// 	The length of pairs will not exceed 2000.
-// 	The length of each pairs[i] will be 2.
-// 	The length of each words[i] and pairs[i][j] will be in the range [1, 20].
+// 	They have the same length (i.e. the same number of words)
+// 	sentence1[i] and sentence2[i] are similar.
+//
+//
+// Notice that a word is always similar to itself, also notice that the similarity relation is not transitive. For example, if the words a and b are similar and the words b and c are similar, a and c are not necessarily similar.
+//
+//  
+// Example 1:
+//
+//
+// Input: sentence1 = ["great","acting","skills"], sentence2 = ["fine","drama","talent"], similarPairs = [["great","fine"],["drama","acting"],["skills","talent"]]
+// Output: true
+// Explanation: The two sentences have the same length and each word i of sentence1 is also similar to the corresponding word in sentence2.
+//
+//
+// Example 2:
+//
+//
+// Input: sentence1 = ["great"], sentence2 = ["great"], similarPairs = []
+// Output: true
+// Explanation: A word is similar to itself.
+//
+//
+// Example 3:
+//
+//
+// Input: sentence1 = ["great"], sentence2 = ["doubleplus","good"], similarPairs = [["great","doubleplus"]]
+// Output: false
+// Explanation: As they don't have the same length, we return false.
 //
 //
 //  
+// Constraints:
+//
+//
+// 	1 <= sentence1.length, sentence2.length <= 1000
+// 	1 <= sentence1[i].length, sentence2[i].length <= 20
+// 	sentence1[i] and sentence2[i] consist of lower-case and upper-case English letters.
+// 	0 <= similarPairs.length <= 1000
+// 	similarPairs[i].length == 2
+// 	1 <= xi.length, yi.length <= 20
+// 	xi and yi consist of lower-case and upper-case English letters.
+// 	All the pairs (xi, yi) are distinct.
+//
 //
 
 

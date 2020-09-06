@@ -1,11 +1,45 @@
-// Given two strings A and B, find the minimum number of times A has to be repeated such that B is a substring of it. If no such solution, return -1.
+// Given two strings a and b, return the minimum number of times you should repeat string a so that string b is a substring of it. If it is impossible for b​​​​​​ to be a substring of a after repeating it, return -1.
 //
-// For example, with A = "abcd" and B = "cdabcdab".
+// Notice: string "abc" repeated 0 times is "",  repeated 1 time is "abc" and repeated 2 times is "abcabc".
 //
-// Return 3, because by repeating A three times (“abcdabcdabcd”), B is a substring of it; and B is not a substring of A repeated two times ("abcdabcd").
+//  
+// Example 1:
 //
-// Note:
-// The length of A and B will be between 1 and 10000.
+//
+// Input: a = "abcd", b = "cdabcdab"
+// Output: 3
+// Explanation: We return 3 because by repeating a three times "abcdabcdabcd", b is a substring of it.
+//
+//
+// Example 2:
+//
+//
+// Input: a = "a", b = "aa"
+// Output: 2
+//
+//
+// Example 3:
+//
+//
+// Input: a = "a", b = "a"
+// Output: 1
+//
+//
+// Example 4:
+//
+//
+// Input: a = "abc", b = "wxyz"
+// Output: -1
+//
+//
+//  
+// Constraints:
+//
+//
+// 	1 <= a.length <= 104
+// 	1 <= b.length <= 104
+// 	a and b consist of lower-case English letters.
+//
 //
 
 
