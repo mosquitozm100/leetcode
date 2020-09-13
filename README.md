@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-09-10 10:28:37
+Update time:  2020-09-12 21:09:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -163,7 +163,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Medium|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
-|148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
+|148|[sort-list](https://leetcode.com/problems/sort-list)||[:memo:](https://leetcode.com/articles/sort-list/)|Medium|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.cpp)|[:memo:](https://leetcode.com/articles/evaluate-reverse-polish-notation/)|Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0151-reverse-words-in-a-string/reverse-words-in-a-string.cpp)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Medium|
@@ -397,7 +397,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |396|[rotate-function](https://leetcode.com/problems/rotate-function)|||Medium|
 |397|[integer-replacement](https://leetcode.com/problems/integer-replacement)|||Medium|
 |398|[random-pick-index](https://leetcode.com/problems/random-pick-index)|||Medium|
-|399|[evaluate-division](https://leetcode.com/problems/evaluate-division)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0399-evaluate-division/evaluate-division.cpp)||Medium|
+|399|[evaluate-division](https://leetcode.com/problems/evaluate-division)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0399-evaluate-division/evaluate-division.cpp)|[:memo:](https://leetcode.com/articles/evaluate-division/)|Medium|
 |400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
 |402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)||[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
@@ -435,7 +435,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0441-arranging-coins/arranging-coins.cpp)|[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
 |442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp)|[:memo:](https://leetcode.com/articles/find-all-duplicates-in-an-array/)|Medium|
-|443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Easy|
+|443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Medium|
 |444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)|||Medium|
 |446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
@@ -799,7 +799,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |867|[new-21-game](https://leetcode.com/problems/new-21-game)||[:memo:](https://leetcode.com/articles/new-21-game/)|Medium|
 |868|[push-dominoes](https://leetcode.com/problems/push-dominoes)||[:memo:](https://leetcode.com/articles/push-dominoes/)|Medium|
 |869|[similar-string-groups](https://leetcode.com/problems/similar-string-groups)||[:memo:](https://leetcode.com/articles/similar-string-groups/)|Hard|
-|870|[magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid)||[:memo:](https://leetcode.com/articles/magic-squares-in-grid/)|Easy|
+|870|[magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid)||[:memo:](https://leetcode.com/articles/magic-squares-in-grid/)|Medium|
 |871|[keys-and-rooms](https://leetcode.com/problems/keys-and-rooms)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0871-keys-and-rooms/keys-and-rooms.cpp)|[:memo:](https://leetcode.com/articles/keys-and-rooms/)|Medium|
 |872|[split-array-into-fibonacci-sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)||[:memo:](https://leetcode.com/articles/split-array-into-fibonacci-sequence/)|Medium|
 |873|[guess-the-word](https://leetcode.com/problems/guess-the-word)||[:memo:](https://leetcode.com/articles/guess-the-word/)|Hard|
@@ -808,7 +808,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)||[:memo:](https://leetcode.com/articles/hand-of-straights/)|Medium|
 |877|[shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)||[:memo:](https://leetcode.com/articles/shortest-path-visiting-all-nodes/)|Hard|
 |878|[shifting-letters](https://leetcode.com/problems/shifting-letters)||[:memo:](https://leetcode.com/articles/shifting-letters/)|Medium|
-|879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person)||[:memo:](https://leetcode.com/articles/maximize-distance-to-closest-person/)|Easy|
+|879|[maximize-distance-to-closest-person](https://leetcode.com/problems/maximize-distance-to-closest-person)||[:memo:](https://leetcode.com/articles/maximize-distance-to-closest-person/)|Medium|
 |880|[rectangle-area-ii](https://leetcode.com/problems/rectangle-area-ii)||[:memo:](https://leetcode.com/articles/rectangle-area-ii/)|Hard|
 |881|[loud-and-rich](https://leetcode.com/problems/loud-and-rich)||[:memo:](https://leetcode.com/articles/loud-and-rich/)|Medium|
 |882|[peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0882-peak-index-in-a-mountain-array/peak-index-in-a-mountain-array.cpp)|[:memo:](https://leetcode.com/articles/peak-index-in-a-mountain-array/)|Easy|
@@ -1090,7 +1090,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
 |1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
-|1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
+|1184|[car-pooling](https://leetcode.com/problems/car-pooling)||[:memo:](https://leetcode.com/articles/car-pooling/)|Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
 |1188|[brace-expansion-ii](https://leetcode.com/problems/brace-expansion-ii)|||Hard|
 |1189|[encode-number](https://leetcode.com/problems/encode-number)|:lock:||Medium|
