@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-09-12 21:09:57
+Update time:  2020-09-14 23:35:23
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **301   /   1441** problems
+I have solved **301   /   1445** problems
 while there are **228** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1186,7 +1186,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
 |1325|[path-with-maximum-probability](https://leetcode.com/problems/path-with-maximum-probability)|||Medium|
-|1329|[minimum-cost-to-move-chips-to-the-same-position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)|||Easy|
+|1329|[minimum-cost-to-move-chips-to-the-same-position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)||[:memo:](https://leetcode.com/articles/minimum-cost-to-move-chips-to-the-same-position/)|Easy|
 |1330|[longest-arithmetic-subsequence-of-given-difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|||Medium|
 |1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1331-path-with-maximum-gold/path-with-maximum-gold.cpp)||Medium|
 |1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|
@@ -1455,5 +1455,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1700|[minimum-deletion-cost-to-avoid-repeating-letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)|||Medium|
 |1701|[remove-max-number-of-edges-to-keep-graph-fully-traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|||Hard|
 |1703|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:||Medium|
+|1704|[special-positions-in-a-binary-matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)|||Easy|
+|1705|[count-unhappy-friends](https://leetcode.com/problems/count-unhappy-friends)|||Medium|
+|1706|[min-cost-to-connect-all-points](https://leetcode.com/problems/min-cost-to-connect-all-points)|||Medium|
+|1707|[check-if-string-is-transformable-with-substring-sort-operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|||Hard|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
 |1719|[put-boxes-into-the-warehouse-ii](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii)|:lock:||Medium|
