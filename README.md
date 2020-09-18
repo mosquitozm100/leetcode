@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Cpp,Java
-Update time:  2020-09-14 23:35:23
+Update time:  2020-09-18 17:52:49
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **301   /   1445** problems
-while there are **228** problems still locked.
+I have solved **301   /   1446** problems
+while there are **229** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -72,7 +72,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0054-spiral-matrix/spiral-matrix.cpp)|[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0055-jump-game/jump-game.cpp)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0056-merge-intervals/merge-intervals.cpp)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Medium|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0058-length-of-last-word/length-of-last-word.cpp)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0059-spiral-matrix-ii/spiral-matrix-ii.cpp)|[:memo:](https://leetcode.com/articles/spiral-matrix-ii/)|Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0060-permutation-sequence/permutation-sequence.cpp)|[:memo:](https://leetcode.com/articles/permutation-sequence/)|Hard|
@@ -96,7 +96,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |78|[subsets](https://leetcode.com/problems/subsets)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0078-subsets/subsets.cpp)|[:memo:](https://leetcode.com/articles/subsets/)|Medium|
 |79|[word-search](https://leetcode.com/problems/word-search)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0079-word-search/word-search.cpp)|[:memo:](https://leetcode.com/articles/word-search/)|Medium|
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0080-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array-ii/)|Medium|
-|81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0081-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp)||Medium|
+|81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0081-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array-ii/)|Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|||Medium|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
 |84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/0084-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp)|[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
@@ -297,7 +297,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |296|[best-meeting-point](https://leetcode.com/problems/best-meeting-point)|:lock:|[:memo:](https://leetcode.com/articles/best-meeting-point/)|Hard|
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-binary-tree/)|Hard|
 |298|[binary-tree-longest-consecutive-sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence/)|Medium|
-|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)||[:memo:](https://leetcode.com/articles/bulls-and-cows/)|Easy|
+|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)||[:memo:](https://leetcode.com/articles/bulls-and-cows/)|Medium|
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
@@ -1233,7 +1233,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1407|[group-the-people-given-the-group-size-they-belong-to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)|||Medium|
 |1408|[find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|||Medium|
 |1409|[minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)|||Hard|
-|1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1411-convert-binary-number-in-a-linked-list-to-integer/convert-binary-number-in-a-linked-list-to-integer.cpp)||Easy|
+|1411|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1411-convert-binary-number-in-a-linked-list-to-integer/convert-binary-number-in-a-linked-list-to-integer.cpp)|[:memo:](https://leetcode.com/articles/convert-binary-number-in-a-linked-list-to-integer/)|Easy|
 |1413|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||Medium|
 |1414|[shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|||Hard|
 |1421|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[Cpp](https://github.com/mosquitozm100/leetcode/blob/master/solutions/1421-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.cpp)||Easy|
@@ -1461,3 +1461,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1707|[check-if-string-is-transformable-with-substring-sort-operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|||Hard|
 |1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
 |1719|[put-boxes-into-the-warehouse-ii](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii)|:lock:||Medium|
+|1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
